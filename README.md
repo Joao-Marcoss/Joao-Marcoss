@@ -24,6 +24,7 @@
    <img align="center" alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+"Code, coffee, repeat." 
 
 ![Snake animation](https://github.com/Joao-Marcoss/Joao-Marcoss/blob/output/github-contribution-grid-snake.svg)
